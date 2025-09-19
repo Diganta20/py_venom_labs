@@ -1,0 +1,7 @@
+x,y,z=input('enter three numbers:').split()
+x=int(x)
+y=int(y)
+z=float(z)
+print('no of boys',x)
+print('no of girls',y)
+print('no of icecream',z)
