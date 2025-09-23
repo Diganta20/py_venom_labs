@@ -13,6 +13,6 @@ calGmean(c,d)
 c=15
 d=10
 calGmean(a,d)  
-e=45
-f=2
+e=4
+f=20
 calGmean(e,f)

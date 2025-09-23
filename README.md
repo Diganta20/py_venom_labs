@@ -13,4 +13,4 @@ install any ide as per your prefernce,personally I suggest VScode
 
 ## Theory:  
 
-For theory you can use websites such as gfg or w3school
+For theory you can use websites such as gfg or w3school.
